@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Регистрация</string>
+    <string name="hint_text_result">text</string>
+    <string name="hint_text_login">Логин</string>
+    <string name="hint_text_password">Пароль</string>
+    <string name="login">Login</string>
+    <string name="btn_registraton">Регистрация</string>
+    <string name="no_all_value">Введены не все данные</string>
+    <string name="login_ok">Вы залогинились!!!!!!</string>
+    <string name="password_bad">Пароль не верный</string>
+    <string name="no_login">Логина не существует</string>
+    <string name="reg_ok">Успешная регистрация</string>
+    <string name="login_is_active">Пользователь уще существует</string>
+    <string name="error_reg">Ошибка регистрации</string>
+    <string name="error_unknown">Неизвестная ошибка...</string>
+    <string name="welcome">Добро пожаловать\n%s</string>
+    <string name="save_login_to_old_files">Хранить логин во внешнем хранилище</string>
+</resources>
